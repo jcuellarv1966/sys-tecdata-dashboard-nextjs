@@ -1,0 +1,561 @@
+[{
+  "_id": {
+    "$oid": "62d1a6199680fec6d1f3637b"
+  },
+  "rut": "112222222225",
+  "razSocial": "Aceros Arequipa SAC",
+  "slug": "aceros-arequipa-sac",
+  "address": "Las Begonias",
+  "email": "acerosarequipa@gmail.com",
+  "contactNumber": "+51934343434",
+  "credit": 600,
+  "image": "",
+  "bornDate": {
+    "$date": "2022-06-01T08:00:00Z"
+  },
+  "beginDate": {
+    "$date": "2022-07-15T08:00:00Z"
+  },
+  "endDate": {
+    "$date": "2022-07-30T08:00:00Z"
+  },
+  "createdAt": {
+    "$date": "2022-07-15T17:38:33.635Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-19T01:22:20.287Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6159f5768c42524a2c1d4191"
+  },
+  "rut": "00222222223",
+  "razSocial": "Embotelladora Pacifico",
+  "slug": "embotelladora-pacifico",
+  "address": "Los Cedros",
+  "email": "embotelladorapacifico@gmail.com",
+  "contactNumber": "+56911111111",
+  "credit": 12550,
+  "image": "",
+  "bornDate": {
+    "$date": "2021-10-03T07:00:00Z"
+  },
+  "beginDate": {
+    "$date": "2021-10-03T07:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-10-03T07:00:00Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-03T18:24:54.604Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-22T01:28:40.229Z"
+  }
+},{
+  "_id": {
+    "$oid": "6159f5768c42524a2c1d4192"
+  },
+  "rut": "00233333334",
+  "razSocial": "Laminadora Trujillo",
+  "slug": "laminadora-trujillo",
+  "address": "Las Dalias",
+  "email": "laminadoratrujillo@gmail.com",
+  "contactNumber": "+56922222222",
+  "credit": 750,
+  "image": "",
+  "bornDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "beginDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "endDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-03T18:24:54.604Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-03T18:24:54.604Z"
+  }
+},{
+  "_id": {
+    "$oid": "6159f5768c42524a2c1d4193"
+  },
+  "rut": "00244444445",
+  "razSocial": "Embutidos San Roque",
+  "slug": "embutidos-san-roque",
+  "address": "Los Cimbalos",
+  "email": "embutidossanroque@gmail.com",
+  "contactNumber": "+56933333333",
+  "credit": 55800,
+  "image": "",
+  "bornDate": {
+    "$date": "2021-10-03T07:00:00Z"
+  },
+  "beginDate": {
+    "$date": "2021-10-03T07:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-10-03T07:00:00Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-03T18:24:54.604Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-22T11:38:49.512Z"
+  }
+},{
+  "_id": {
+    "$oid": "6159f5768c42524a2c1d4194"
+  },
+  "rut": "00255555556",
+  "razSocial": "Distribuidora Miramar",
+  "slug": "distribuidora-miramar",
+  "address": "Los Cedros",
+  "email": "distribuidoramiramar@gmail.com",
+  "contactNumber": "+56944444444",
+  "credit": 12800,
+  "image": "",
+  "bornDate": {
+    "$date": "2021-10-03T07:00:00Z"
+  },
+  "beginDate": {
+    "$date": "2021-10-03T07:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-10-03T07:00:00Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-03T18:24:54.604Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-22T01:23:50.997Z"
+  }
+},{
+  "_id": {
+    "$oid": "6159f5768c42524a2c1d4195"
+  },
+  "rut": "00266666667",
+  "razSocial": "Empacadora Don Jose",
+  "slug": "empacadora-don-josé",
+  "address": "Los Dumbos",
+  "email": "empacadoradonjose@gmail.com",
+  "contactNumber": "+56955555555",
+  "credit": 600,
+  "image": "",
+  "bornDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "beginDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "endDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-03T18:24:54.604Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-03T18:24:54.604Z"
+  }
+},{
+  "_id": {
+    "$oid": "6159f5768c42524a2c1d4196"
+  },
+  "rut": "00277777778",
+  "razSocial": "Fabricas Reunidas",
+  "slug": "fabricas-reunidas",
+  "address": "Los Dumbos",
+  "email": "fabricasreunidas@gmail.com",
+  "contactNumber": "+56966666666",
+  "credit": 600,
+  "image": "",
+  "bornDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "beginDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "endDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-03T18:24:54.604Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-03T18:24:54.604Z"
+  }
+},{
+  "_id": {
+    "$oid": "6159f5768c42524a2c1d4197"
+  },
+  "rut": "00288888889",
+  "razSocial": "Textiles El Amazonas",
+  "slug": "textiles-el-amazonas",
+  "address": "Los Ciruelos",
+  "email": "textileselamazonas@gmail.com",
+  "contactNumber": "+56977777777",
+  "credit": 600,
+  "image": "",
+  "bornDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "beginDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "endDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-03T18:24:54.604Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-03T18:24:54.604Z"
+  }
+},{
+  "_id": {
+    "$oid": "6159f5768c42524a2c1d4198"
+  },
+  "rut": "00299999990",
+  "razSocial": "Financiera del Sur",
+  "slug": "financiera-del-sur",
+  "address": "Las Dalias",
+  "email": "financieradelsur@gmail.com",
+  "contactNumber": "+56988888888",
+  "credit": 1200,
+  "image": "",
+  "bornDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "beginDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "endDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-03T18:24:54.604Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-03T18:24:54.604Z"
+  }
+},{
+  "_id": {
+    "$oid": "6159f5768c42524a2c1d4199"
+  },
+  "rut": "00212121212",
+  "razSocial": "Tejidos La Unión",
+  "slug": "tejidos-la-unión",
+  "address": "Las Gardenias",
+  "email": "tejidoslaunión@gmail.com",
+  "contactNumber": "+56999999999",
+  "credit": 240,
+  "image": "",
+  "bornDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "beginDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "endDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-03T18:24:54.605Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-03T18:24:54.605Z"
+  }
+},{
+  "_id": {
+    "$oid": "6159f5768c42524a2c1d419a"
+  },
+  "rut": "00245454545",
+  "razSocial": "Fabricas Cassinelli",
+  "slug": "fabricas-cassinelli",
+  "address": "Los Manzanos",
+  "email": "fabricascassinelli@gmail.com",
+  "contactNumber": "+56934343434",
+  "credit": 360,
+  "image": "",
+  "bornDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "beginDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "endDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-03T18:24:54.605Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-03T18:24:54.605Z"
+  }
+},{
+  "_id": {
+    "$oid": "6159f5768c42524a2c1d419b"
+  },
+  "rut": "00256565656",
+  "razSocial": "Minas Buenaventura",
+  "slug": "minas-buenaventura",
+  "address": "Las Gardenias",
+  "email": "minasbuenaventura@gmail.com",
+  "contactNumber": "+56934343434",
+  "credit": 240,
+  "image": "",
+  "bornDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "beginDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "endDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-03T18:24:54.605Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-03T18:24:54.605Z"
+  }
+},{
+  "_id": {
+    "$oid": "6159f5768c42524a2c1d419c"
+  },
+  "rut": "00267676767",
+  "razSocial": "Aceros del Peru",
+  "slug": "aceros-del-peru",
+  "address": "Los Cimbalos de las Torres",
+  "email": "acerosdelperu@gmail.com",
+  "contactNumber": "+56945454545",
+  "credit": 874500,
+  "image": "",
+  "bornDate": {
+    "$date": "2021-10-03T07:00:00Z"
+  },
+  "beginDate": {
+    "$date": "2021-10-03T07:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-10-03T07:00:00Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-03T18:24:54.605Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-22T01:07:30.686Z"
+  }
+},{
+  "_id": {
+    "$oid": "6159f5768c42524a2c1d419d"
+  },
+  "rut": "00278787878",
+  "razSocial": "Ensambladora Total",
+  "slug": "ensambladora-total",
+  "address": "Los Cimbalos",
+  "email": "ensambladoratotal@gmail.com",
+  "contactNumber": "+56945454545",
+  "credit": 300,
+  "image": "",
+  "bornDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "beginDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "endDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-03T18:24:54.605Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-03T18:24:54.605Z"
+  }
+},{
+  "_id": {
+    "$oid": "6159f5768c42524a2c1d419e"
+  },
+  "rut": "00289898989",
+  "razSocial": "Importaciones Hidar",
+  "slug": "importaciones-hidar",
+  "address": "Los Ciruelos",
+  "email": "importacioneshidar@gmail.com",
+  "contactNumber": "+56945454545",
+  "credit": 290,
+  "image": "",
+  "bornDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "beginDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "endDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-03T18:24:54.605Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-03T18:24:54.605Z"
+  }
+},{
+  "_id": {
+    "$oid": "6159f5768c42524a2c1d419f"
+  },
+  "rut": "00290909090",
+  "razSocial": "Comercial San Pedro",
+  "slug": "comercial-san-pedro",
+  "address": "Las Violetas",
+  "email": "comercialsanpedro@gmail.com",
+  "contactNumber": "+56945454545",
+  "credit": 199200,
+  "image": "",
+  "bornDate": {
+    "$date": "2021-10-03T07:00:00Z"
+  },
+  "beginDate": {
+    "$date": "2021-10-03T07:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-10-03T07:00:00Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-03T18:24:54.605Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-22T01:16:11.553Z"
+  }
+},{
+  "_id": {
+    "$oid": "6159f5768c42524a2c1d41a0"
+  },
+  "rut": "00291919191",
+  "razSocial": "Banco Industrial",
+  "slug": "banco-industrial",
+  "address": "Las Rosas",
+  "email": "bancoindustrial@gmail.com",
+  "contactNumber": "+56945454545",
+  "credit": 45900,
+  "image": "",
+  "bornDate": {
+    "$date": "2021-10-03T07:00:00Z"
+  },
+  "beginDate": {
+    "$date": "2021-10-03T07:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-10-03T07:00:00Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-03T18:24:54.605Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-22T01:08:40.191Z"
+  }
+},{
+  "_id": {
+    "$oid": "6159f5768c42524a2c1d41a1"
+  },
+  "rut": "00292929292",
+  "razSocial": "Minas Antaminas",
+  "slug": "minas-antaminas",
+  "address": "Las Violetas",
+  "email": "minasantaminas@gmail.com",
+  "contactNumber": "+56945454545",
+  "credit": 850,
+  "image": "",
+  "bornDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "beginDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "endDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-03T18:24:54.605Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-03T18:24:54.605Z"
+  }
+},{
+  "_id": {
+    "$oid": "6159f5768c42524a2c1d41a2"
+  },
+  "rut": "00293939393",
+  "razSocial": "Sindicato Pesquero",
+  "slug": "sindicato-pesquero",
+  "address": "Los Oréganos",
+  "email": "sindicatopesquero@gmail.com",
+  "contactNumber": "+56945454545",
+  "credit": 1300,
+  "image": "",
+  "bornDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "beginDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "endDate": {
+    "$date": "2021-10-03T18:24:54.568Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-03T18:24:54.605Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-03T18:24:54.605Z"
+  }
+},{
+  "_id": {
+    "$oid": "615ed60446518e3610f09964"
+  },
+  "bornDate": {
+    "$date": "2021-10-01T07:00:00Z"
+  },
+  "beginDate": {
+    "$date": "2021-10-15T07:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-10-31T07:00:00Z"
+  },
+  "rut": "00343434349",
+  "razSocial": "Plasticos San Patricio",
+  "slug": "plasticos-san-patricio",
+  "image": "",
+  "address": "Ovalo Gutierrez - Macul",
+  "email": "plasticossanpatricio@gmail.com",
+  "contactNumber": "+56900004444",
+  "credit": 800,
+  "createdAt": {
+    "$date": "2021-10-07T11:12:04.716Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-07T11:13:52.098Z"
+  },
+  "__v": 0
+}]
